@@ -3,5 +3,5 @@
 #### Best Case - O(1)
 #### Average Case - O(log n)
 #### Worst case - O(n)
-##Space Complexity
+## Space Complexity
 - The space complexity of the binary search is O(1).
